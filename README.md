@@ -1,0 +1,2 @@
+# Windows Service Example for .NET 7
+
